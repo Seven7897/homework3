@@ -10,4 +10,4 @@ while i < numbers:
     list2[k] = list[i]
     k += 1
     i += 2
-print(list2)
+print(f"Сумма равна : {sum(list2)}")
